@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "uIG0DonGnp8AbcV9iUxz7mxsWKudBXY4WC8/DA9BNX8=",
+  "Source": "draquapuri",
+  "BasePath": "_content/draquapuri",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "draquapuri\\wwwroot",
+      "Source": "draquapuri",
+      "ContentRoot": "A:\\GitHub\\draquapuri\\draquapuri\\wwwroot\\",
+      "BasePath": "_content/draquapuri",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
